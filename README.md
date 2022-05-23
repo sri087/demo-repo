@@ -1,2 +1,5 @@
 # demo-repo
-demonstration
+Demonstration
+
+## Purpose
+to test and learn git features
